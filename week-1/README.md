@@ -13,8 +13,8 @@ By the end of this week, I aim to:
 
 ### Week 1 Files
 
-- **[`week-1/variables.js`](week-1/variables.js)**: Examples on declaring and using variables in JavaScript.
-- **[`week-1/control-structures.js`](week-1/control-structures.js)**: Examples on applying:
+- **[`week-1/variables.js`](week-1/notes/variables.js)**: Examples on declaring and using variables in JavaScript.
+- **[`week-1/control-structures.js`](week-1/notes/control-structures.js)**: Examples on applying:
   - `if`, `else`, and `if-else` statements.
   - Implementing loops like `for`, `while`, and `do-while`.
 
