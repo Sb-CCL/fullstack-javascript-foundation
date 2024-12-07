@@ -49,7 +49,7 @@ git --version    # Verify Git version
 
 ```plaintext
 fullstack-javascript-foundation/
-├── week1/
+├── week1/notes/
 │   ├── variables.js          # Demonstrates variable declaration and usage
 │   └── control-structures.js # Examples of control structures (if-else, loops)
 └── README.md                 # Overview and learning objectives
