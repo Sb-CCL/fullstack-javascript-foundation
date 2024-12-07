@@ -1,6 +1,6 @@
 # Fullstack JavaScript Foundation
 
-Welcome to my **Fullstack JavaScript Foundation** repository! This project documents my journey in working with the fundamentals of Fullstack JavaScript development. It is organized by weeks, with each week containing dedicated folders that include practical examples, exercises, and resources for learning. Throughout this project, I will explore key concepts in JavaScript, front-end and back-end development, and the tools that power modern web applications.
+This project documents my journey in working with the fundamentals of Fullstack JavaScript development. It is organized by weeks, with each week containing dedicated folders that include practical examples, exercises, and resources for learning. Throughout this project, I will explore key concepts in JavaScript, front-end and back-end development, and the tools that power modern web applications.
 
 ## 🛠 Prerequisites
 
