@@ -14,6 +14,7 @@ for (let i = 0; i < 10; i++) {
 }
 // Output: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
+// While Loops are used to run as long as the condition is true.
 // While Loop: Continues to run as long as i is less than 5, printing numbers 0 to 4.
 let i = 0;
 while (i < 5) {
