@@ -73,38 +73,44 @@ git merge [branch name]
 
 ## Key CLI Commands
 
-`pw`: Show your current location.
+### Current Location
 
 ```bash
+# Shows your current location
 pwd
 ```
 
-`ls`: List files and directories.
+### List Files
 
 ```bash
+# List files and directories
 ls
 ```
 
-`cd`: Navigate between directories.
+### Navigation
 
 ```bash
+# Navigate between directories
 cd [directory]
 ```
 
-`mkdir`: Create a new folder.
+### Make Directory
 
 ```bash
+# Create a new folder
 mkdir [folder_name]
 ```
 
-`rm`: Delete files or folders.
+### Remove Directory
 
 ```bash
+# Delete files or folders
 rm [file_or_folder]
 ```
 
-`touch`: Create a new file.
+### Make File
 
 ```bash
+# Create a new file
 touch [file_name]
 ```
