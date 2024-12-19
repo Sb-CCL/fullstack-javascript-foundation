@@ -13,10 +13,10 @@ The focus of this week was to get git setup and learn about.
 
 ## 3. Homework 📝
 
-step 1: Create a github account
-step 2: download and setup git in computer
-step 3: make a project folder
-step 4: push the project to github
+- step 1: Create a github account
+- step 2: download and setup git in computer
+- step 3: make a project folder
+- step 4: push the project to github
 
 ## 4. What I Learned This Week 🧠
 
