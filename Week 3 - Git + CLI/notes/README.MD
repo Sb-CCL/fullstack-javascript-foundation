@@ -5,12 +5,11 @@ The focus of this week was to get git setup and learn about.
 
 ## 2. Week Log Notes 📝
 
-Monday: Worked on what git is and learning about the Git Commands.
-Tuesday: Showed how to download git and did a demonstration on how to use it.
-Wednesday:
-Thursday:
-Friday:
-Examples:
+- Monday: Worked on what git is and learning about the Git Commands.
+- Tuesday: Showed how to download git and did a demonstration on how to use it.
+- Wednesday: When through the process of cloning a repo and pushing it to github.
+- Thursday: Off Day
+- Friday:
 
 ## 3. Homework 📝
 
