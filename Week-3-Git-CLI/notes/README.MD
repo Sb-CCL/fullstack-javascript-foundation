@@ -15,10 +15,11 @@
 
 ## 3. Homework 📝
 
-- step 1: Create a github account
-- step 2: download and setup git in computer
-- step 3: make a project folder
-- step 4: push the project to github
+- step 1: Create a github account and create a github repository
+- step 2: Clone the repository to the local machine using the terminal.
+- step 3: Create an markdown file that lists the terminal commands we learned.
+- step 4: Add the files to stagging, commit the changes, and push the code to github repository.
+- step 5: Copy the repository URL from github and submit it.
 
 ## 4. What I Learned This Week 🧠
 
