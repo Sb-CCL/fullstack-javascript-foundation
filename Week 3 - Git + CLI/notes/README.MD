@@ -1,15 +1,17 @@
 ## 1. Goal of the Week 🎯
 
-Week 3 - Week 3 - Git + CLI
-The focus of this week was to get git setup and learn about.
+**Week 3 - Week 3 - Git + CLI**
+
+- The focus of this week was to get git setup and running.
+- Practice using github to make commits and push files into github.
 
 ## 2. Week Log Notes 📝
 
-- Monday: Worked on what git is and learning about the Git Commands.
-- Tuesday: Showed how to download git and did a demonstration on how to use it.
-- Wednesday: When through the process of cloning a repo and pushing it to github.
-- Thursday: Off Day
-- Friday:
+- **Monday**: Worked on what git is and learning about the Git Commands.
+- **Tuesday**: Showed how to download git and did a demonstration on how to use it.
+- **Wednesday**: When through the process of cloning a repo and pushing it to github.
+- **Thursday**: No Class
+- **Friday**: Work on homework as well as any other assignments we have
 
 ## 3. Homework 📝
 
@@ -20,7 +22,7 @@ The focus of this week was to get git setup and learn about.
 
 ## 4. What I Learned This Week 🧠
 
-Learned how to make directories, how to navigate directories, how to make a file in the terminal.
+Learned how to make directories, how to navigate directories, and how to make a file in the terminal. I also learned that you can clone a repository to your local machine to make the process of setup quicker.
 
 ## 5. Challenges Faced 🚧
 
