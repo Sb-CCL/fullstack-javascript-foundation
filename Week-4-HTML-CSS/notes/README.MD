@@ -10,7 +10,7 @@ This week are learning about html, css flexbox, as well as how we best structure
 - **Tuesday**: Learned about flex, html, links, images, tags, attributes, and how we can use it style a page.
 - **Wednesday**: (No Class)
 - **Thursday**: Practiced with flexbox and learned how to use it effectively to manage page content.
-- **Friday**:
+- **Friday**: Practice and worked on flexbox.
 
 ## 3. Homework 📝
 
