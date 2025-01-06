@@ -30,7 +30,7 @@ The challenges I faced was getting the footer to match what I wanted it to be. T
 
 ## 6. Wins of the Week 🏆
 
-I was able to get a proximation of the design I had in my for the page and I'm happy I was able to understand and use flexbox more effectivly then expected.
+I was able to get a proximation of the design I had in mind for the page and I'm happy I was able to understand and use flexbox more effectivly.
 
 ## 7. Next Week’s Focus 🔭
 
