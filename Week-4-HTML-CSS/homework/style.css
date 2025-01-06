@@ -99,6 +99,29 @@ nav .logo a {
   border-radius: 5px;
 }
 
+.project-title {
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.project-details a {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  line-height: 25px;
+}
+
+.link-address a {
+  color: black;
+}
+
+.link-btn {
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
 /* Contact */
 .contact {
   display: flex;
