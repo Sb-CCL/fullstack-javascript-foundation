@@ -2,7 +2,7 @@
 
 **Week 5 - DOM Manipulation**
 
-This week are learning about DOM Manipulation using JavaScript to make changes to the webpage.
+This week we are learning about DOM Manipulation using JavaScript.  Dom manipulation allows us to find and make changes to elements on the page.
 
 ## 2. Week Log Notes 📝
 
