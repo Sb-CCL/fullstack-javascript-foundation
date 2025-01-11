@@ -14,16 +14,20 @@ This week are learning about DOM Manipulation using JavaScript to make changes t
 
 ## 3. Homework 📝
 
-- step 1:
-- step 2:
-- step 3:
-- step 4:
-- step 5:
+- step 1: Connect the script.js and style.css file to the HTML index.
+- step 2: Create an Event Listener and identify which elements to target.
+- step 3: Create variables that take in the input value and append it when the submit button is pressed.
+- step 4: Add the files to stagging, commit the changes, and push the code to github repository.
+- step 5: Copy the repository URL from github and submit it.
 
 ## 4. What I Learned This Week 🧠
+I learned how to effectivly manage and edit the dom so that the page becomes more interactive.
 
 ## 5. Challenges Faced 🚧
+Determing the correct use of variables and functions in the dom was difficult to determine.
 
 ## 6. Wins of the Week 🏆
+I was able to create a page that is interactive and responds to when a user clicks and press the a button.
 
 ## 7. Next Week’s Focus 🔭
+Next week we are working on a large project and I plan on using the knowledge I've developed to succeed in completing this weeks project.
