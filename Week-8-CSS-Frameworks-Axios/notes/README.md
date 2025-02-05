@@ -14,6 +14,12 @@ This week we are working with CSS frameworks such as TailwindCSS as well as Dais
 
 ## 3. Homework 📝
 
+- step 1: Design and get an idea for the project, such as a weather app.
+- step 2: Clone the repository to the local machine using the terminal.
+- step 3: Get API keys, get Axios connected, and setup the HTML/CSS page as well as confetti effects.
+- step 4: Add the files to stagging, commit the changes, and push the code to github repository.
+- step 5: Copy the repository URL from github and submit it.
+
 ## 4. What I Learned This Week 🧠
 
 Learned how to use DaisyUI with TailwindCSS and Axios to get data from a weather api.
