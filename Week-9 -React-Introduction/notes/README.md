@@ -16,7 +16,7 @@ This week we are learning about React and working on building an application.
 
 - step 1: Design and get an idea for the project. Choose to make a weather app in react.
 - step 2: Clone the repository to the local machine using the terminal.
-- step 3: Get API keys, get Axios connected, and setup the HTML/CSS page as well as confetti effects.
+- step 3: Get API keys, get Axios connected, and setup the components for the weather app.
 - step 4: Add the files to stagging, commit the changes, and push the code to github repository.
 - step 5: Copy the repository URL from github and submit it.
 
