@@ -6,8 +6,7 @@ This week we are learning more about React hooks and routing.
 
 ## 2. Week Log Notes 📝
 
-- **Monday**: Went over homework, tutoring service, and React content.
-- **Tuesday**:
+- **Monday**: Went over homework, tutoring service, and practiced areas we are weak in such as loops.
 - **Wednesday**:
 - **Thursday**:
 - **Friday**:
