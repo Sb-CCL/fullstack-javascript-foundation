@@ -1,8 +1,8 @@
 ## 1. Goal of the Week 🎯
 
-**Week 11 - Full Stack Architecture / Big Picture / Prep for upcoming 3 weeks**
+**Week 13 - Client-Server Model, HTTP Methods, Express**
 
-This week we are learning about full stack applications and building them using API and promises.
+This week we are learning about Client-Server Model, HTTP Methods, and Express.
 
 ## 2. Week Log Notes 📝
 
